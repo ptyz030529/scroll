@@ -1,0 +1,33 @@
+{
+  "name": "scroll",
+  "version": "0.0.1",
+  "description": "jquery scroll plugin.",
+  "keywords": [
+    "library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ptyz030529/scroll.git"
+  },
+  "bugs": "https://github.com/JohnDoe/node-mylib/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://mit-license.org/"
+    }
+  ],
+  "author": {
+    "name": "JimbaChen"
+  },
+  "scripts": {
+    "test": "grunt test && node test/node-index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "qunit": "~0.5.15",
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-qunit": "~0.2.1",
+    "qunitjs": "~1.11.0"
+  }
+}
